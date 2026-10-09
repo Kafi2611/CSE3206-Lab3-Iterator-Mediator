@@ -3,10 +3,6 @@
 *.o
 *.out
 a.out
-iterator
-mediator
-without_iterator
-without_mediator
 
 # Editor / system files
 .vscode/
