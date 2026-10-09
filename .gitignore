@@ -1,0 +1,19 @@
+# Compiled programs (do not upload these)
+*.exe
+*.o
+*.out
+a.out
+iterator
+mediator
+without_iterator
+without_mediator
+
+# Editor / system files
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Word temporary lock files
+~$*
